@@ -1,2 +1,1 @@
-# issues
-POC
+# Microsoft bugbounty POC
